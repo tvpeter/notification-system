@@ -1,6 +1,6 @@
 # NOTIFICATION SYSTEM
 
-This is a HTTP notification system that has endpoints and channels. When a message is published on a particular channel, 
+This is a HTTP publisher subscriber notification system that has endpoints and channels. When a message is published on a particular channel, 
 all the subscribing servers instantly receive the message.
 
 ## Architecture
